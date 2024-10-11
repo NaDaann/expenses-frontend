@@ -1,4 +1,4 @@
-# Onfly Expenses APP (expenses-crud)
+# Expenses APP (expenses-crud)
 
 A Quasar Project
 
